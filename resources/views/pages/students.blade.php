@@ -1,5 +1,5 @@
 @extends('layout.layout')
-
+@yield('content')
 @section('content')
 <div class="container">
     <div class="row">
